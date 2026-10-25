@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#6B7045"/>
+  <!-- ficha de archivo -->
+  <path d="M96 168 h96 l20 -28 h70 a12 12 0 0 1 12 12 v16 h122 a12 12 0 0 1 12 12 v220 a12 12 0 0 1 -12 12 H96 a12 12 0 0 1 -12 -12 V180 a12 12 0 0 1 12 -12z" fill="#F3EBD3"/>
+  <g stroke="#C9B98A" stroke-width="6">
+    <line x1="112" y1="250" x2="400" y2="250"/><line x1="112" y1="300" x2="400" y2="300"/>
+    <line x1="112" y1="350" x2="400" y2="350"/>
+  </g>
+  <!-- micrófono retro -->
+  <rect x="216" y="196" width="80" height="128" rx="40" fill="#D3C49A" stroke="#3A3326" stroke-width="10"/>
+  <rect x="208" y="252" width="96" height="16" rx="4" fill="#B5603F" stroke="#3A3326" stroke-width="6"/>
+  <path d="M186 262 v12 a70 70 0 0 0 140 0 v-12" fill="none" stroke="#3A3326" stroke-width="12" stroke-linecap="round"/>
+  <line x1="256" y1="344" x2="256" y2="380" stroke="#3A3326" stroke-width="12"/>
+  <rect x="212" y="376" width="88" height="18" rx="6" fill="#3A3326"/>
+</svg>
