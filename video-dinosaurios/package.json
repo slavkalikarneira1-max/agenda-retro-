@@ -1,0 +1,24 @@
+{
+  "name": "video-adios-dinosaurios",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Video infantil vertical (Reels 1080x1920) ¿Adiós, dinosaurios? hecho con Remotion",
+  "scripts": {
+    "voz": "python3 scripts/generar_voz.py",
+    "musica": "python3 scripts/generar_musica.py",
+    "studio": "remotion studio",
+    "render": "remotion render AdiosDinosaurios out/adios-dinosaurios.mp4 --codec=h264 --crf=18 --pixel-format=yuv420p --audio-codec=aac --audio-bitrate=192k",
+    "todo": "npm run voz && npm run musica && npm run render"
+  },
+  "dependencies": {
+    "@fontsource/fredoka": "^5.3.0",
+    "@remotion/cli": "^4.0.538",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
