@@ -1,4 +1,35 @@
 {
   "voz": "es-CO-SalomeNeural",
-  "escenas": []
+  "escenas": [
+    {
+      "archivo": "audio/escena-1.mp3",
+      "inicio": 0.3,
+      "segundos": 9.72,
+      "texto": "Hace muchísimo tiempo, la Tierra estaba llena de dinosaurios. ¡Grandes, pequeños, con cuello largo y con colas gigantes!"
+    },
+    {
+      "archivo": "audio/escena-2.mp3",
+      "inicio": 8.3,
+      "segundos": 7.176,
+      "texto": "Un día, una roca enorme del espacio, llamada asteroide, viajó por el cielo…"
+    },
+    {
+      "archivo": "audio/escena-3.mp3",
+      "inicio": 16.3,
+      "segundos": 7.32,
+      "texto": "¡Y bum! Cayó en la Tierra. Se levantó mucho polvo y el sol se escondió."
+    },
+    {
+      "archivo": "audio/escena-4.mp3",
+      "inicio": 24.3,
+      "segundos": 6.288,
+      "texto": "Hizo frío, no había comida, y los grandes dinosaurios desaparecieron."
+    },
+    {
+      "archivo": "audio/escena-5.mp3",
+      "inicio": 32.3,
+      "segundos": 7.392,
+      "texto": "Pero algunos dinosaurios pequeñitos siguieron aquí… ¡y hoy son los pajaritos! ¡Pío, pío!"
+    }
+  ]
 }
